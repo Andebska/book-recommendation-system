@@ -52,7 +52,7 @@ when using or redistributing the data.
 4. Place `books.csv` and `ratings.csv` in the same directory as the notebook.
 5. Start Jupyter Notebook:
     ```bash
-    jupyter notebook amazon-baby-review-sentiment.ipynb
+    jupyter notebook book-recommendation-system.ipynb
     ```
 6. Run the notebook cells from top to bottom.
 
